@@ -48,7 +48,8 @@ A responsive, SDG 12-inspired website promoting sustainable cooking.
 - HTML5, CSS3, JavaScript
 
 ## Deployment
-Live at: [your-live-url-here]
+Live at:
+https://68d43014a9550a47f85f9f21--stirring-cucurucho-d00679.netlify.app/
 
 ## Author
 Suleiman – Ethical tech entrepreneur and full-stack developer
